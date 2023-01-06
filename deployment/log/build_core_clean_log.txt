@@ -1,0 +1,10 @@
+Buildfile: C:\LocalMendixProjects\DallEConnector-main\deployment\build_core.xml
+
+clean:
+   [delete] Deleting directory C:\LocalMendixProjects\DallEConnector-main\deployment\model
+   [delete] Deleting directory C:\LocalMendixProjects\DallEConnector-main\deployment\run
+
+BUILD SUCCESSFUL
+Total time: 0 seconds
+
+
